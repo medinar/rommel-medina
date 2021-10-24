@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rommel-medina/static/css/main.11ea96fe.chunk.css",
+    "main.js": "/rommel-medina/static/js/main.3305b4ee.chunk.js",
+    "main.js.map": "/rommel-medina/static/js/main.3305b4ee.chunk.js.map",
+    "runtime-main.js": "/rommel-medina/static/js/runtime-main.d1ab33de.js",
+    "runtime-main.js.map": "/rommel-medina/static/js/runtime-main.d1ab33de.js.map",
+    "static/css/2.0cb7a5bf.chunk.css": "/rommel-medina/static/css/2.0cb7a5bf.chunk.css",
+    "static/js/2.2bdd2f00.chunk.js": "/rommel-medina/static/js/2.2bdd2f00.chunk.js",
+    "static/js/2.2bdd2f00.chunk.js.map": "/rommel-medina/static/js/2.2bdd2f00.chunk.js.map",
+    "static/js/3.be5dc9ce.chunk.js": "/rommel-medina/static/js/3.be5dc9ce.chunk.js",
+    "static/js/3.be5dc9ce.chunk.js.map": "/rommel-medina/static/js/3.be5dc9ce.chunk.js.map",
+    "index.html": "/rommel-medina/index.html",
+    "static/css/2.0cb7a5bf.chunk.css.map": "/rommel-medina/static/css/2.0cb7a5bf.chunk.css.map",
+    "static/css/main.11ea96fe.chunk.css.map": "/rommel-medina/static/css/main.11ea96fe.chunk.css.map",
+    "static/js/2.2bdd2f00.chunk.js.LICENSE.txt": "/rommel-medina/static/js/2.2bdd2f00.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rommel-medina/static/media/bg-main.ab101dc9.jpeg",
+    "static/media/school.a41655f6.svg": "/rommel-medina/static/media/school.a41655f6.svg",
+    "static/media/work.3710b624.svg": "/rommel-medina/static/media/work.3710b624.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1ab33de.js",
+    "static/css/2.0cb7a5bf.chunk.css",
+    "static/js/2.2bdd2f00.chunk.js",
+    "static/css/main.11ea96fe.chunk.css",
+    "static/js/main.3305b4ee.chunk.js"
+  ]
+}
