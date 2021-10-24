@@ -87,7 +87,7 @@
 }
 
 .page#contact-me {
-  background: #41d9dc;
+  background: var(--primary-white-sand);
   color: #442c02;
 }
 
@@ -158,11 +158,11 @@ nav a.nav-link {
 }
 
 .navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
-  border-top: 0.1875rem solid var(--primary-sky-blue);
+  border-bottom: 0.1875rem solid var(--primary-sky-blue);
 }
 
 .navbar-nav > li > a:hover {
-  border-top: 0.1875rem solid var(--primary-sky-blue);
+  border-bottom: 0.1875rem solid var(--primary-sky-blue);
 }
 
 /*************************** HEADER ***************************/
@@ -261,4 +261,30 @@ nav a.nav-link {
     color: rgb(44, 44, 44);
     margin-top: 1.5em;
   }
+}
+
+/*************************** AVATAR ***************************/
+.my-avatar {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 2rem;
+  filter: drop-shadow(0 0 0.2rem var(--primary-sky-blue));
+}
+
+/*************************** CONTACT FORM ***************************/
+
+.contact-form {
+  text-align: center;
+  max-width: 300px;
+  margin: 20px auto;  
+}
+
+Form {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+Form label {
+  text-align: left;
 }

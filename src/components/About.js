@@ -5,7 +5,7 @@ const About = () => {
         <div className="page" id="about-me">
             <div className="container">
                 <div className="heading">
-                    <h2><span className="page-title">About Me</span></h2>
+                <img className="my-avatar rounded-circle z-depth-2" alt="Hi! I'm Rommel :)" src="https://github.com/medinar/covid-watch/blob/main/src/main/resources/static/assets/avatar-mhel.png?raw=true" data-holder-rendered="true" />
                     <p><span>A little bit about myself</span></p>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consectetur odio id purus feugiat tempus. Pellentesque maximus nulla metus, a vulputate diam convallis sed. Vivamus rhoncus risus lacus, et aliquam lorem rhoncus et. Sed id neque nec leo ultrices hendrerit. Ut congue porttitor dapibus. Donec est ligula, viverra quis luctus eu, ultrices id dui. Suspendisse potenti. Ut convallis enim eu ante lacinia, quis fermentum eros varius. Vestibulum ex tortor, ultricies sit amet accumsan sit amet, mollis at magna. Donec faucibus velit sit amet dictum pretium. Nam congue sapien felis, ut eleifend libero venenatis vel.</p>
